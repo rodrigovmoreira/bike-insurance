@@ -1,0 +1,76 @@
+Lista de informações para cadastro de segurado
+🚨 Dados para cotação de bike
+
+Nome do segurado: Rodrigo Vasconcelos Moreira
+CPF: 380.803.828-40
+Data de Nascimento: 10/10/1992
+CEP e e endereço residêncial: 06018-100 - Rua Narciso Sturlini, 567 - Ap 131 - Osasco - SP
+
+Marca da bike: Absolute
+Modelo da bike: Wild 29
+Data de fabricação: 2022
+Data de aquisição: 2023
+Valor da bike: 1750
+Possui nota fiscal ou recibo de compra e venda em seu nome?
+Sim
+
+Possui modificações?
+
+Tipo de Freios:
+() Cantilever
+() V-Brake
+() Disco - Mecanico
+() Disco - Hidraulico
+
+Tipo do pedivela:
+() Coroa Tripla ponta quadrada
+() Coroa Tripla hollowtech
+() Coroa Dupla ponta quadrada
+() Coroa Dupla hollowtech
+() Coroa Single ponta quadrada
+() Coroa Single hollowtech
+
+Cambio dianteiro (se o pedivela for single, pula essa etapa)
+Shimano
+
+
+Modalidade:
+( x ) Uso Urbano
+(  ) Triatlo
+( x ) Mountain Bike
+(  ) Downhill, SPEED
+
+A bike será utilizada para:
+( x ) Lazer/Hobby 
+(  ) Competição
+( x ) Meio de transporte/Locomoção diária
+(  ) Uso profissional(competição) 
+
+Costuma viajar com a bike para outros países? (Deseja fazer seguro internacional?)
+(  ) SIM
+( x ) NÃO
+
+Costuma viajar com a bike para outras cidades/estados através de transporte feito por terceiros? Ex: ónibus, avião, motorista credenciado, etc...
+(  ) SIM
+( x ) NÃO
+
+Tipo de Bike:
+(  ) BMX
+(  ) DOBRÁVEL
+(  ) DOWNHILL
+(  ) ELÉTRICA
+(  ) ELÉTRICA E DOBRÁVEL
+(  ) HAND BIKE
+( x ) MOUNTAIN BIKE
+(  ) RECLINADA
+(  ) SPEED
+(  ) TRIAL
+(  ) URBANA
+(  ) TRIATLO
+
+Tem algum acessório como velocimetro, GPS, ciclocomputador?  Se sim informar valor, ano de fabricação e marca.
+
+Não possui
+A bike foi comprada por 1750. Porém teve um upgrade da relação de cambio. Hoje usa um sistema 2x10 da absolute.
+
+sem aceitação para bike motorizada ou scooter
