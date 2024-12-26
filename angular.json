@@ -67,10 +67,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "bike-insurance:build:production"
+              "buildTarget": "bike-insurance:build:production"
             },
             "development": {
-              "browserTarget": "bike-insurance:build:development"
+              "buildTarget": "bike-insurance:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -78,7 +78,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "bike-insurance:build"
+            "buildTarget": "bike-insurance:build"
           }
         },
         "test": {
