@@ -1,0 +1,19 @@
+#include "tlpp-core.th"
+#include "tlpp-rest.th"
+
+user function sampleFull()
+	Private cJson := ""
+
+	@Get( endpoint="sample/full", description='exemplo usando as duas propriedades' )
+
+	cJson := fAdapter()
+
+	oRest:setResponse(cJson)
+
+return
+
+Static Function fAdapter()
+
+	cJson := '{"itens":[{"joao":"maria","josé":"joana","joaquim":"joaquina","juscelino":"joice"},{"limao":"verde","banana":"amarelo","maça":"vermelho","amora":"roxo"}]}'
+
+Return cJson

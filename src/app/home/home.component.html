@@ -1,3 +1,49 @@
 <po-page-default p-title="Home" [p-actions]="pageActions">
-<p>Home</p>
+
+<po-widget
+class="po-lg-6 po-mt-4"
+[p-height]=250
+p-primary-label="Angular"
+p-secondary-label="Typescript"
+p-title="Javascript technologies"
+[p-help]="help"
+(p-primary-action)="showAngular()"
+(p-secondary-action)="showTypescript()"
+(p-title-action)="showJavascriptTechnologies()"><po-info [p-label]="label" [p-value]="value"> </po-info></po-widget>
+
+<po-widget
+class="po-lg-6 po-mt-4"
+[p-height]=250
+p-primary-label="Definir"
+p-secondary-label="Cancelar"
+p-title="Javascript technologies"
+(p-title-action)="showJavascriptTechnologies()"></po-widget>
+
+<po-widget
+class="po-lg-6 po-mt-4"
+[p-height]=250
+p-primary-label="Definir"
+p-secondary-label="Cancelar"
+p-title="Javascript technologies"
+(p-title-action)="showJavascriptTechnologies()"></po-widget>
+
+<po-widget
+class="po-lg-6 po-mt-4"
+[p-height]=250
+p-primary-label="Definir"
+p-secondary-label="Cancelar"
+p-title="Javascript technologies"
+(p-title-action)="showJavascriptTechnologies()"></po-widget>
+
 </po-page-default>
+
+<po-modal p-title="Javascript Technologies">
+    There are several Javascript technologies that help us in the construction of fast and dynamic screens, among them we
+    can mention:
+  
+    <div class="po-ml-3">
+      <ul>
+        <li *ngFor="let technology of technologies">{{ technology }}</li>
+      </ul>
+    </div>
+</po-modal>
